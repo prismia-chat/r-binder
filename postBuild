@@ -1,0 +1,1 @@
+rscript -e "install.packages('dslabs', repos='http://cran.us.r-project.org')"
